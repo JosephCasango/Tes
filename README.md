@@ -838,8 +838,8 @@ body {
 .button-Principal {
   display: flex;
   background-color: black;
-  width: 180px;
-  height: 100px;
+  width: 150px;
+  height: 50px;
   align-items: center;
   justify-content: space-around;
   border-radius: 10px;
@@ -873,7 +873,7 @@ body {
 
 <body>
 
-<section class="Colores">
+
 
 
 
@@ -919,22 +919,7 @@ body {
       ></path>
     </svg>
   </button>
-  <button class="tablink" onclick="openPage('Creditos', this,)">
-    <svg
-      class="iconi"
-      stroke="currentColor"
-      fill="currentColor"
-      stroke-width="0"
-      viewBox="0 0 24 24"
-      height="1em"
-      width="1em"
-      xmlns="http://www.w3.org/2000/svg"
-    >
-      <path
-        d="M12 2.5a5.5 5.5 0 0 1 3.096 10.047 9.005 9.005 0 0 1 5.9 8.181.75.75 0 1 1-1.499.044 7.5 7.5 0 0 0-14.993 0 .75.75 0 0 1-1.5-.045 9.005 9.005 0 0 1 5.9-8.18A5.5 5.5 0 0 1 12 2.5ZM8 8a4 4 0 1 0 8 0 4 4 0 0 0-8 0Z"
-      ></path>
-    </svg>
-  </button>
+
 
 </div>
 </center>
@@ -943,7 +928,7 @@ body {
 
 
 
-
+<section class="Colores">
 <div id="Inicio" class="tabcontent">
 
 
@@ -969,10 +954,10 @@ body {
       <li data-target="#myCarousel" data-slide-to="2"></li>
     </ol>
 
-    <!-- Wrapper for slides -->
+   <!-- Wrapper for slides -->
    <div class="carousel-inner">
 
-   <div class="item active">
+  <div class="item active">
         <img src="https://i.pinimg.com/736x/7c/c8/40/7cc8408c6a5b3f4fd76f648e5acfe128.jpg" alt="Los Angeles" style="width:100%;">
         <div class="carousel-caption">
           <h3>Los Angeles</h3>
@@ -988,7 +973,7 @@ body {
         </div>
       </div>
     
-   <div class="item">
+  <div class="item">
         <img src="https://i.pinimg.com/736x/7c/c8/40/7cc8408c6a5b3f4fd76f648e5acfe128.jpg" alt="New York" style="width:100%;">
         <div class="carousel-caption">
           <h3>New York</h3>
@@ -996,10 +981,9 @@ body {
         </div>
       </div>
   
-  </div>
-
-<!-- Left and right controls -->
-   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+   </div>
+  <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>
       <span class="sr-only">Previous</span>
     </a>
@@ -1058,7 +1042,7 @@ body {
   </p>
  
       
-  </div>
+   </div>
   </div>
 
 <br><br>
@@ -1072,6 +1056,50 @@ body {
 
 
 
+<div class="Google">
+  <div class="Ilustra">
+  
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28923.95797131906!2d-116.8539648106338!3d32.48079720002973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d93e743f2e3bd7%3A0xbf19e069ae61d678!2sUniversidad%20Tecnol%C3%B3gica%20de%20Tijuana!5e1!3m2!1ses-419!2smx!4v1740120842892!5m2!1ses-419!2smx" width="900" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  
+  </div>
+  <div class="contento">
+    <p class="text-1">
+      Ubicacion Google Maps
+    </p>
+
+
+
+
+
+
+
+  <svg
+          height="35"
+          width="28"
+          viewBox="0 0 250 250"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            fill="#4285F4"
+            d="M255.878 133.451c0-10.734-.871-18.567-2.756-26.69H130.55v48.448h71.947c-1.45 12.04-9.283 30.172-26.69 42.356l-.244 1.622 38.755 30.023 2.685.268c24.659-22.774 38.875-56.282 38.875-96.027"
+          ></path>
+          <path
+            fill="#34A853"
+            d="M130.55 261.1c35.248 0 64.839-11.605 86.453-31.622l-41.196-31.913c-11.024 7.688-25.82 13.055-45.257 13.055-34.523 0-63.824-22.773-74.269-54.25l-1.531.13-40.298 31.187-.527 1.465C35.393 231.798 79.49 261.1 130.55 261.1"
+          ></path>
+          <path
+            fill="#FBBC05"
+            d="M56.281 156.37c-2.756-8.123-4.351-16.827-4.351-25.82 0-8.994 1.595-17.697 4.206-25.82l-.073-1.73L15.26 71.312l-1.335.635C5.077 89.644 0 109.517 0 130.55s5.077 40.905 13.925 58.602l42.356-32.782"
+          ></path>
+          <path
+            fill="#EB4335"
+            d="M130.55 50.479c24.514 0 41.05 10.589 50.479 19.438l36.844-35.974C195.245 12.91 165.798 0 130.55 0 79.49 0 35.393 29.301 13.925 71.947l42.211 32.783c10.59-31.477 39.891-54.251 74.414-54.251"
+          ></path>
+   
+
+
+  </div>
+</div>
 
 
 
@@ -1081,6 +1109,13 @@ body {
 
 
 
+
+
+
+
+
+
+</center>
 
 
 
@@ -1137,15 +1172,27 @@ body {
   
   
   
+
+  
   <li class="list-group-item"><button class="Crema" onclick="openPage('Crema', this,)">Fresas Con Crema</button></li>
+
   <li class="list-group-item"><button class="Brownie" onclick="openPage('Brownie', this,)">Brownie</button></li>
-  <li class="list-group-item"><button class="Cheescake" onclick="openPage('Cheescake', this,)">Cheescake</button></li>  
-
-
+    <li class="list-group-item"><button class="Cheescake" onclick="openPage('Cheescake', this,)">Cheescake</button></li>
    
   </ul>  
 </div>
 
+<script>
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#myList li").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+</script>
+
 
 
 
@@ -1171,6 +1218,181 @@ body {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="Creditos" class="tabcontent">
+  <h3>About</h3>
+  <p>Who we are and what we do.</p>
+</div>
+
+
+
+
+
+
+
+
+<div id="Crema" class="tabcontent">
+
+<div class="container mt-3">
+
+<!-- Header -->
+<div class="headering">
+  <h1>Fresas Con Crema</h1>
+  <hr>
+  <h3>Precio de $65.00 pesos</h3>
+  <br>
+  <h3>Complementos</h3>
+  <h4>Crema Batida $5.00 pesos</h4>
+  <br>
+  <center>
+ 
+<button class="carrun" data-bs-toggle="modal" data-bs-target="#myModal">
+  <svg class="cartier" fill="white" viewBox="0 0 576 512" height="1em" xmlns="http://www.w3.org/2000/svg"><path d="M0 24C0 10.7 10.7 0 24 0H69.5c22 0 41.5 12.8 50.6 32h411c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3H170.7l5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5H488c13.3 0 24 10.7 24 24s-10.7 24-24 24H199.7c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5H24C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z"></path></svg>
+  Comprar
+  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 640 512" class="productin"><path d="M211.8 0c7.8 0 14.3 5.7 16.7 13.2C240.8 51.9 277.1 80 320 80s79.2-28.1 91.5-66.8C413.9 5.7 420.4 0 428.2 0h12.6c22.5 0 44.2 7.9 61.5 22.3L628.5 127.4c6.6 5.5 10.7 13.5 11.4 22.1s-2.1 17.1-7.8 23.6l-56 64c-11.4 13.1-31.2 14.6-44.6 3.5L480 197.7V448c0 35.3-28.7 64-64 64H224c-35.3 0-64-28.7-64-64V197.7l-51.5 42.9c-13.3 11.1-33.1 9.6-44.6-3.5l-56-64c-5.7-6.5-8.5-15-7.8-23.6s4.8-16.6 11.4-22.1L137.7 22.3C155 7.9 176.7 0 199.2 0h12.6z"></path></svg>
+</button></center>
+  
+
+
+
+
+
+
+<FONT COLOR="black">
+
+<div class="modal" id="myModal">
+  <div class="modal-dialog modal-dialog-scrollable">
+    <div class="modal-content">
+
+   <!-- Modal Header -->
+   <div class="modal-header">
+        <h4 class="modal-title">Metodo de Pago</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+
+      <!-- Modal body -->
+   <div class="modal-body">
+        <h3>Transferencia</h3>
+        <p>Podras Transferir o Pagar en efectivo con nosotros.</p>
+
+  <p>Tarjeta "NU"</p>
+        <p>Numero de Tarjeta:</p>
+        <p>12121212121</p>
+        <p>Clave Intervancaria:</p>
+        <p>122122131313</p>
+        
+  <p>Recuerda Mandar Comprobante de Pago o Captura de la Transferecia a este numero "6642008313"</p>
+ </div>
+
+      <!-- Modal footer -->
+   <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+   </div>
+  </div>
+</div>
+
+</FONT>
+
+
+ 
+
+
+
+
+
+
+
+  <br>
+  <h4>Contactanos</h4>
+
+
+
+
+
+<center>
+<!-- From Uiverse.io by ZstarPanda0210 --> 
+<button id="btn-message" class="button-message">
+  <div class="content-avatar">
+    <div class="status-user"></div>
+    <div class="avatar">
+      <svg
+        class="user-img"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12,12.5c-3.04,0-5.5,1.73-5.5,3.5s2.46,3.5,5.5,3.5,5.5-1.73,5.5-3.5-2.46-3.5-5.5-3.5Zm0-.5c1.66,0,3-1.34,3-3s-1.34-3-3-3-3,1.34-3,3,1.34,3,3,3Z"
+        ></path>
+      </svg>
+    </div>
+  </div>
+  <div class="notice-content">
+    <div class="username">Whatsapp</div>
+    <div class="lable-message">
+      IG: Casango_<span class="number-message">3</span>
+    </div>
+    <div class="user-id">6642008313</div>
+  </div>
+</button>
+</center>
+
+
+
+
+
+
+</div>
+
+<!-- Photo Grid -->
+<center>
+<div class="rowing"> 
+  <div class="columning">
+    <img src="https://i.pinimg.com/736x/30/aa/b6/30aab683ad9587a3af3b7e779cb1f3e3.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/736x/b8/96/9a/b8969ae3855b647e4dcff4e895c5330a.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/736x/ae/17/98/ae1798e83a75a95ea7473554797088f3.jpg" style="width:100%">
+ 
+  </div>
+  <div class="columning">
+    <img src="https://i.pinimg.com/736x/ed/d0/93/edd093fdaf9c48f93cac42a7b81b64c7.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/736x/ee/c6/d9/eec6d91aebae5ffee0b7d51bf105a924.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/736x/8c/df/73/8cdf738210b2f9b83adcfbd73cdb3d03.jpg" style="width:100%">
+ </center>
+  </div>  
+</div>
 
 
 
@@ -1229,8 +1451,8 @@ body {
         <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
       </div>
 
-      <!-- Modal body -->
-   <div class="modal-body">
+   <!-- Modal body -->
+  <div class="modal-body">
         <h3>Transferencia</h3>
         <p>Podras Transferir o Pagar en efectivo con nosotros.</p>
 
@@ -1244,10 +1466,10 @@ body {
  
    </div>
 
-  <!-- Modal footer -->
+      <!-- Modal footer -->
    <div class="modal-footer">
         <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
-  </div>
+      </div>
 
    </div>
   </div>
@@ -1362,7 +1584,7 @@ body {
     <div class="modal-content">
 
       <!-- Modal Header -->
-   <div class="modal-header">
+  <div class="modal-header">
         <h4 class="modal-title">Metodo de Pago</h4>
         <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
       </div>
@@ -1373,21 +1595,21 @@ body {
         <p>Podras Transferir o Pagar en efectivo con nosotros.</p>
 
    <p>Tarjeta "NU"</p>
-    <p>Numero de Tarjeta:</p>
-<p>12121212121</p>  
-  <p>Clave Intervancaria:</p>
-   <p>122122131313</p>
+        <p>Numero de Tarjeta:</p>
+        <p>12121212121</p>
+        <p>Clave Intervancaria:</p>
+        <p>122122131313</p>
         
    <p>Recuerda Mandar Comprobante de Pago o Captura de la Transferecia a este numero "6642008313"</p>
  
-   </div>
+  </div>
 
-<!-- Modal footer -->
+      <!-- Modal footer -->
    <div class="modal-footer">
         <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
       </div>
 
-    </div>
+  </div>
   </div>
 </div>
 
@@ -1478,214 +1700,9 @@ body {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="Crema" class="tabcontent">
-
-<div class="container mt-3">
-
-<!-- Header -->
-<div class="headering">
-  <h1>Fresas Con Crema</h1>
-  <hr>
-  <h3>Precio de $65.00 pesos</h3>
-  <br>
-  <h3>Complementos</h3>
-  <h4>Crema Batida $5.00 pesos</h4>
-  <br>
-  <center>
- 
-<button class="carrun" data-bs-toggle="modal" data-bs-target="#myModal">
-  <svg class="cartier" fill="white" viewBox="0 0 576 512" height="1em" xmlns="http://www.w3.org/2000/svg"><path d="M0 24C0 10.7 10.7 0 24 0H69.5c22 0 41.5 12.8 50.6 32h411c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3H170.7l5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5H488c13.3 0 24 10.7 24 24s-10.7 24-24 24H199.7c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5H24C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z"></path></svg>
-  Comprar
-  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 640 512" class="productin"><path d="M211.8 0c7.8 0 14.3 5.7 16.7 13.2C240.8 51.9 277.1 80 320 80s79.2-28.1 91.5-66.8C413.9 5.7 420.4 0 428.2 0h12.6c22.5 0 44.2 7.9 61.5 22.3L628.5 127.4c6.6 5.5 10.7 13.5 11.4 22.1s-2.1 17.1-7.8 23.6l-56 64c-11.4 13.1-31.2 14.6-44.6 3.5L480 197.7V448c0 35.3-28.7 64-64 64H224c-35.3 0-64-28.7-64-64V197.7l-51.5 42.9c-13.3 11.1-33.1 9.6-44.6-3.5l-56-64c-5.7-6.5-8.5-15-7.8-23.6s4.8-16.6 11.4-22.1L137.7 22.3C155 7.9 176.7 0 199.2 0h12.6z"></path></svg>
-</button></center>
-  
-
-
-
-
-
-
-<FONT COLOR="black">
-
-<div class="modal" id="myModal">
-  <div class="modal-dialog modal-dialog-scrollable">
-    <div class="modal-content">
-
-      <!-- Modal Header -->
-  <div class="modal-header">
-        <h4 class="modal-title">Metodo de Pago</h4>
-        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-      </div>
-
-      <!-- Modal body -->
-   <div class="modal-body">
-        <h3>Transferencia</h3>
-        <p>Podras Transferir o Pagar en efectivo con nosotros.</p>
-
-   <p>Tarjeta "NU"</p>
-        <p>Numero de Tarjeta:</p>
-        <p>12121212121</p>
-        <p>Clave Intervancaria:</p>
-        <p>122122131313</p>
-        
-   <p>Recuerda Mandar Comprobante de Pago o Captura de la Transferecia a este numero "6642008313"</p>
- 
-  </div>
-
-      <!-- Modal footer -->
-  <div class="modal-footer">
-        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
-      </div>
-
-  </div>
-  </div>
-</div>
-
-</FONT>
-
-
- 
-
-
-
-
-
-
-
-  <br>
-  <h4>Contactanos</h4>
-
-
-
-
-
-<center>
-<!-- From Uiverse.io by ZstarPanda0210 --> 
-<button id="btn-message" class="button-message">
-  <div class="content-avatar">
-    <div class="status-user"></div>
-    <div class="avatar">
-      <svg
-        class="user-img"
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 24 24"
-      >
-        <path
-          d="M12,12.5c-3.04,0-5.5,1.73-5.5,3.5s2.46,3.5,5.5,3.5,5.5-1.73,5.5-3.5-2.46-3.5-5.5-3.5Zm0-.5c1.66,0,3-1.34,3-3s-1.34-3-3-3-3,1.34-3,3,1.34,3,3,3Z"
-        ></path>
-      </svg>
-    </div>
-  </div>
-  <div class="notice-content">
-    <div class="username">Whatsapp</div>
-    <div class="lable-message">
-      IG: Casango_<span class="number-message">3</span>
-    </div>
-    <div class="user-id">6642008313</div>
-  </div>
-</button>
-</center>
-
-
-
-
-
-
-</div>
-
-<!-- Photo Grid -->
-<center>
-<div class="rowing"> 
-  <div class="columning">
-    <img src="https://i.pinimg.com/736x/30/aa/b6/30aab683ad9587a3af3b7e779cb1f3e3.jpg" style="width:100%">
-    <img src="https://i.pinimg.com/736x/b8/96/9a/b8969ae3855b647e4dcff4e895c5330a.jpg" style="width:100%">
-    <img src="https://i.pinimg.com/736x/ae/17/98/ae1798e83a75a95ea7473554797088f3.jpg" style="width:100%">
- 
-  </div>
-  <div class="columning">
-    <img src="https://i.pinimg.com/736x/ed/d0/93/edd093fdaf9c48f93cac42a7b81b64c7.jpg" style="width:100%">
-    <img src="https://i.pinimg.com/736x/ee/c6/d9/eec6d91aebae5ffee0b7d51bf105a924.jpg" style="width:100%">
-    <img src="https://i.pinimg.com/736x/8c/df/73/8cdf738210b2f9b83adcfbd73cdb3d03.jpg" style="width:100%">
- </center>
-  </div>  
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="Creditos" class="tabcontent">
-  <h3>About</h3>
-  <p>Who we are and what we do.</p>
-</div>
-
-
-
-
-
-
-
 </section>
+
+
 
 
 
@@ -1772,30 +1789,7 @@ function openPage(pageName,elmnt,color) {
 
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
-
-
-
-
-
-
-
-$(document).ready(function(){
-  $("#myInput").on("keyup", function() {
-    var value = $(this).val().toLowerCase();
-    $("#myList li").filter(function() {
-      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
-    });
-  });
-});
-
-
-
-
-
-
 </script>
    
-
 </body>
-
 </html> 
