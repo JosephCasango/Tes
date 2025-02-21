@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -838,8 +838,8 @@ body {
 .button-Principal {
   display: flex;
   background-color: black;
-  width: 450px;
-  height: 100px;
+  width: 150px;
+  height: 50px;
   align-items: center;
   justify-content: space-around;
   border-radius: 10px;
@@ -848,8 +848,8 @@ body {
 .tablink {
   outline: 0 !important;
   border: 0 !important;
-  width: 70px;
-  height: 70px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   background-color: transparent;
   display: flex;
@@ -1081,12 +1081,6 @@ body {
 
 
 
-
-
-
-
-
-</center>
 
 
 
