@@ -1137,10 +1137,10 @@ body {
   
   
   
-
+  <li class="list-group-item"><button class="Crema" onclick="openPage('Crema', this,)">Fresas Con Crema</button></li>
   <li class="list-group-item"><button class="Brownie" onclick="openPage('Brownie', this,)">Brownie</button></li>
   <li class="list-group-item"><button class="Cheescake" onclick="openPage('Cheescake', this,)">Cheescake</button></li>  
-  <li class="list-group-item"><button class="Crema" onclick="openPage('Crema', this,)">Fresas Con Crema</button></li>
+
 
    
   </ul>  
@@ -1674,8 +1674,6 @@ body {
 
 
 
-</body>
-
 
 <script>
 function openPage(pageName,elmnt,color) {
@@ -1774,5 +1772,7 @@ $(document).ready(function(){
 
 </script>
    
+
+</body>
 
 </html> 
