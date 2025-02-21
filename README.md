@@ -845,7 +845,7 @@ body {
   border-radius: 10px;
 }
 
-.tablinkY {
+.tablink {
   outline: 0 !important;
   border: 0 !important;
   width: 40px;
@@ -884,7 +884,7 @@ body {
 
 <!-- From Uiverse.io by faxriddin20 --> 
 <div class="button-Principal">
-  <button class="tablinkY" onclick="openPage('Inicio', this,)" id="defaultOpen">
+  <button class="tablink" onclick="openPage('Inicio', this,)" id="defaultOpen">
     <svg
       class="iconi"
       stroke="currentColor"
@@ -900,7 +900,7 @@ body {
       ></path>
     </svg>
   </button>
-  <button class="tablinkY" onclick="openPage('Productos', this,)">
+  <button class="tablink" onclick="openPage('Productos', this,)">
     <svg
       class="iconi"
       stroke="currentColor"
@@ -919,7 +919,7 @@ body {
       ></path>
     </svg>
   </button>
-  <button class="tablinkY" onclick="openPage('Creditos', this,)">
+  <button class="tablink" onclick="openPage('Creditos', this,)">
     <svg
       class="iconi"
       stroke="currentColor"
@@ -1705,7 +1705,7 @@ function openPage(pageName,elmnt,color) {
   for (i = 0; i < tabcontent.length; i++) {
     tabcontent[i].style.display = "none";
   }
-  tablinks = document.getElementsByClassName("tablinkY");
+  tablinks = document.getElementsByClassName("tablink");
   for (i = 0; i < tablinks.length; i++) {
     tablinks[i].style.backgroundColor = "";
   }
