@@ -1245,42 +1245,6 @@ $(document).ready(function(){
 
 
 
-<FONT COLOR="black">
-
-<div class="modal" id="myModal">
-  <div class="modal-dialog modal-dialog-scrollable">
-    <div class="modal-content">
-
-   <!-- Modal Header -->
-   <div class="modal-header">
-        <h4 class="modal-title">Metodo de Pago</h4>
-        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-      </div>
-
-      <!-- Modal body -->
-   <div class="modal-body">
-        <h3>Transferencia</h3>
-        <p>Podras Transferir o Pagar en efectivo con nosotros.</p>
-
-  <p>Tarjeta "NU"</p>
-        <p>Numero de Tarjeta:</p>
-        <p>12121212121</p>
-        <p>Clave Intervancaria:</p>
-        <p>122122131313</p>
-        
-  <p>Recuerda Mandar Comprobante de Pago o Captura de la Transferecia a este numero "6642008313"</p>
- </div>
-
-      <!-- Modal footer -->
-   <div class="modal-footer">
-        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
-      </div>
-
-   </div>
-  </div>
-</div>
-
-</FONT>
 
 
  
