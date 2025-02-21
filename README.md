@@ -1265,9 +1265,9 @@ $(document).ready(function(){
 
    <p>Tarjeta "NU"</p>
         <p>Numero de Tarjeta:</p>
-        <p>12121212121</p>
+        <p>5101-2593-5314-2741</p>
         <p>Clave Intervancaria:</p>
-        <p>122122131313</p>
+        <p>638180010191611538</p>
         
    <p>Recuerda Mandar Comprobante de Pago o Captura de la Transferecia a este numero "6642008313"</p>
  
