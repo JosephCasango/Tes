@@ -1131,8 +1131,7 @@ body {
   
   <li class="list-group-item"><button class="Crema" onclick="openPage('Crema', this,)">Fresas Con Crema</button></li>
 
-  <li class="list-group-item"><button class="Brownie" onclick="openPage('Brownie', this,)">Brownie</button></li>
-    <li class="list-group-item"><button class="Cheescake" onclick="openPage('Cheescake', this,)">Cheescake</button></li>
+
    
   </ul>  
 </div>
