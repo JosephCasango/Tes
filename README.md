@@ -845,7 +845,7 @@ body {
   border-radius: 10px;
 }
 
-.tablink {
+.tablinkY {
   outline: 0 !important;
   border: 0 !important;
   width: 40px;
@@ -884,7 +884,7 @@ body {
 
 <!-- From Uiverse.io by faxriddin20 --> 
 <div class="button-Principal">
-  <button class="tablink" onclick="openPage('Inicio', this,)" id="defaultOpen">
+  <button class="tablinkY" onclick="openPage('Inicio', this,)" id="defaultOpen">
     <svg
       class="iconi"
       stroke="currentColor"
@@ -900,7 +900,7 @@ body {
       ></path>
     </svg>
   </button>
-  <button class="tablink" onclick="openPage('Productos', this,)">
+  <button class="tablinkY" onclick="openPage('Productos', this,)">
     <svg
       class="iconi"
       stroke="currentColor"
@@ -919,7 +919,7 @@ body {
       ></path>
     </svg>
   </button>
-  <button class="tablink" onclick="openPage('Creditos', this,)">
+  <button class="tablinkY" onclick="openPage('Creditos', this,)">
     <svg
       class="iconi"
       stroke="currentColor"
@@ -1138,11 +1138,10 @@ body {
   
   
 
-  
-   <li class="list-group-item"><button class="Crema" onclick="openPage('Crema', this,)">Fresas Con Crema</button></li>
-
   <li class="list-group-item"><button class="Brownie" onclick="openPage('Brownie', this,)">Brownie</button></li>
-    <li class="list-group-item"><button class="Cheescake" onclick="openPage('Cheescake', this,)">Cheescake</button></li>
+  <li class="list-group-item"><button class="Cheescake" onclick="openPage('Cheescake', this,)">Cheescake</button></li>  
+  <li class="list-group-item"><button class="Crema" onclick="openPage('Crema', this,)">Fresas Con Crema</button></li>
+
    
   </ul>  
 </div>
@@ -1205,10 +1204,7 @@ body {
 
 
 
-<div id="Creditos" class="tabcontent">
-  <h3>About</h3>
-  <p>Who we are and what we do.</p>
-</div>
+
 
 
 
@@ -1655,6 +1651,17 @@ body {
 
 
 
+<div id="Creditos" class="tabcontent">
+  <h3>About</h3>
+  <p>Who we are and what we do.</p>
+</div>
+
+
+
+
+
+
+
 </section>
 
 
@@ -1677,7 +1684,7 @@ function openPage(pageName,elmnt,color) {
   for (i = 0; i < tabcontent.length; i++) {
     tabcontent[i].style.display = "none";
   }
-  tablinks = document.getElementsByClassName("tablink");
+  tablinks = document.getElementsByClassName("tablinkY");
   for (i = 0; i < tablinks.length; i++) {
     tablinks[i].style.backgroundColor = "";
   }
