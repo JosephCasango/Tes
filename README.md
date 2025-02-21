@@ -873,7 +873,7 @@ body {
 
 <body>
 
-
+<section class="Colores">
 
 
 
@@ -943,7 +943,7 @@ body {
 
 
 
-<section class="Colores">
+
 <div id="Inicio" class="tabcontent">
 
 
