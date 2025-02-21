@@ -958,27 +958,24 @@ body {
    <div class="carousel-inner">
 
   <div class="item active">
-        <img src="https://i.pinimg.com/736x/7c/c8/40/7cc8408c6a5b3f4fd76f648e5acfe128.jpg" alt="Los Angeles" style="width:100%;">
+        <img src="https://i.pinimg.com/736x/59/2f/17/592f17003fa126713f20e4c8e904b805.jpg" style="width:100%;">
         <div class="carousel-caption">
-          <h3>Los Angeles</h3>
-          <p>LA is always so much fun!</p>
-        </div>
+      
+  </div>
       </div>
 
   <div class="item">
-        <img src="https://i.pinimg.com/736x/7c/c8/40/7cc8408c6a5b3f4fd76f648e5acfe128.jpg" alt="Chicago" style="width:100%;">
+        <img src="https://i.pinimg.com/736x/50/81/25/5081258e0e29e9492a636db4d6436576.jpg" style="width:100%;">
         <div class="carousel-caption">
-          <h3>Chicago</h3>
-          <p>Thank you, Chicago!</p>
-        </div>
+    
+   </div>
       </div>
     
   <div class="item">
-        <img src="https://i.pinimg.com/736x/7c/c8/40/7cc8408c6a5b3f4fd76f648e5acfe128.jpg" alt="New York" style="width:100%;">
+        <img src="https://i.pinimg.com/736x/54/18/45/541845eb9bc8c94b1bafa8013d575b43.jpg" style="width:100%;">
         <div class="carousel-caption">
-          <h3>New York</h3>
-          <p>We love the Big Apple!</p>
-        </div>
+         
+  </div>
       </div>
   
    </div>
@@ -1341,16 +1338,16 @@ $(document).ready(function(){
 <center>
 <div class="rowing"> 
   <div class="columning">
-    <img src="https://i.pinimg.com/736x/30/aa/b6/30aab683ad9587a3af3b7e779cb1f3e3.jpg" style="width:100%">
-    <img src="https://i.pinimg.com/736x/b8/96/9a/b8969ae3855b647e4dcff4e895c5330a.jpg" style="width:100%">
-    <img src="https://i.pinimg.com/736x/ae/17/98/ae1798e83a75a95ea7473554797088f3.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/736x/96/74/bf/9674bf7c85b38988fd72f85e85594519.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/736x/e9/5f/90/e95f90f98e3ba3d899b58452d7066c97.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/736x/fa/df/29/fadf296f6af19059f1c356aeb9cd616b.jpg" style="width:100%">
  
   </div>
   <div class="columning">
-    <img src="https://i.pinimg.com/736x/ed/d0/93/edd093fdaf9c48f93cac42a7b81b64c7.jpg" style="width:100%">
-    <img src="https://i.pinimg.com/736x/ee/c6/d9/eec6d91aebae5ffee0b7d51bf105a924.jpg" style="width:100%">
-    <img src="https://i.pinimg.com/736x/8c/df/73/8cdf738210b2f9b83adcfbd73cdb3d03.jpg" style="width:100%">
- </center>
+    <img src="https://i.pinimg.com/736x/ab/d0/b3/abd0b3b008649a191b6399534a436df1.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/736x/04/c1/d9/04c1d949b5aefe3452274ad7d063d8f0.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/736x/e9/5f/90/e95f90f98e3ba3d899b58452d7066c97.jpg" style="width:100%">
+ 
   </div>  
 </div>
 
