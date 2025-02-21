@@ -1056,16 +1056,7 @@ body {
 
 
 
-<div class="Google">
-  <div class="Ilustra">
-  
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28923.95797131906!2d-116.8539648106338!3d32.48079720002973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d93e743f2e3bd7%3A0xbf19e069ae61d678!2sUniversidad%20Tecnol%C3%B3gica%20de%20Tijuana!5e1!3m2!1ses-419!2smx!4v1740120842892!5m2!1ses-419!2smx" width="900" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  
-  </div>
-  <div class="contento">
-    <p class="text-1">
-      Ubicacion Google Maps
-    </p>
+
 
 
 
