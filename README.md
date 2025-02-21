@@ -839,7 +839,7 @@ body {
   display: flex;
   background-color: black;
   width: 150px;
-  height: 50px;
+  height: 100px;
   align-items: center;
   justify-content: space-around;
   border-radius: 10px;
@@ -848,8 +848,8 @@ body {
 .tablink {
   outline: 0 !important;
   border: 0 !important;
-  width: 40px;
-  height: 40px;
+  width: 70px;
+  height: 70px;
   border-radius: 50%;
   background-color: transparent;
   display: flex;
