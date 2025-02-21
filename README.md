@@ -1184,179 +1184,6 @@ body {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="Crema" class="tabcontent">
-
-<div class="container mt-3">
-
-<!-- Header -->
-<div class="headering">
-  <h1>Fresas Con Crema</h1>
-  <hr>
-  <h3>Precio de $65.00 pesos</h3>
-  <br>
-  <h3>Complementos</h3>
-  <h4>Crema Batida $5.00 pesos</h4>
-  <br>
-  <center>
- 
-<button class="carrun" data-bs-toggle="modal" data-bs-target="#myModal">
-  <svg class="cartier" fill="white" viewBox="0 0 576 512" height="1em" xmlns="http://www.w3.org/2000/svg"><path d="M0 24C0 10.7 10.7 0 24 0H69.5c22 0 41.5 12.8 50.6 32h411c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3H170.7l5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5H488c13.3 0 24 10.7 24 24s-10.7 24-24 24H199.7c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5H24C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z"></path></svg>
-  Comprar
-  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 640 512" class="productin"><path d="M211.8 0c7.8 0 14.3 5.7 16.7 13.2C240.8 51.9 277.1 80 320 80s79.2-28.1 91.5-66.8C413.9 5.7 420.4 0 428.2 0h12.6c22.5 0 44.2 7.9 61.5 22.3L628.5 127.4c6.6 5.5 10.7 13.5 11.4 22.1s-2.1 17.1-7.8 23.6l-56 64c-11.4 13.1-31.2 14.6-44.6 3.5L480 197.7V448c0 35.3-28.7 64-64 64H224c-35.3 0-64-28.7-64-64V197.7l-51.5 42.9c-13.3 11.1-33.1 9.6-44.6-3.5l-56-64c-5.7-6.5-8.5-15-7.8-23.6s4.8-16.6 11.4-22.1L137.7 22.3C155 7.9 176.7 0 199.2 0h12.6z"></path></svg>
-</button></center>
-  
-
-
-
-
-
-
-<FONT COLOR="black">
-
-<div class="modal" id="myModal">
-  <div class="modal-dialog modal-dialog-scrollable">
-    <div class="modal-content">
-
-      <!-- Modal Header -->
-  <div class="modal-header">
-        <h4 class="modal-title">Metodo de Pago</h4>
-        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-      </div>
-
-      <!-- Modal body -->
-   <div class="modal-body">
-        <h3>Transferencia</h3>
-        <p>Podras Transferir o Pagar en efectivo con nosotros.</p>
-
-   <p>Tarjeta "NU"</p>
-        <p>Numero de Tarjeta:</p>
-        <p>12121212121</p>
-        <p>Clave Intervancaria:</p>
-        <p>122122131313</p>
-        
-   <p>Recuerda Mandar Comprobante de Pago o Captura de la Transferecia a este numero "6642008313"</p>
- 
-  </div>
-
-      <!-- Modal footer -->
-  <div class="modal-footer">
-        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
-      </div>
-
-  </div>
-  </div>
-</div>
-
-</FONT>
-
-
- 
-
-
-
-
-
-
-
-  <br>
-  <h4>Contactanos</h4>
-
-
-
-
-
-<center>
-<!-- From Uiverse.io by ZstarPanda0210 --> 
-<button id="btn-message" class="button-message">
-  <div class="content-avatar">
-    <div class="status-user"></div>
-    <div class="avatar">
-      <svg
-        class="user-img"
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 24 24"
-      >
-        <path
-          d="M12,12.5c-3.04,0-5.5,1.73-5.5,3.5s2.46,3.5,5.5,3.5,5.5-1.73,5.5-3.5-2.46-3.5-5.5-3.5Zm0-.5c1.66,0,3-1.34,3-3s-1.34-3-3-3-3,1.34-3,3,1.34,3,3,3Z"
-        ></path>
-      </svg>
-    </div>
-  </div>
-  <div class="notice-content">
-    <div class="username">Whatsapp</div>
-    <div class="lable-message">
-      IG: Casango_<span class="number-message">3</span>
-    </div>
-    <div class="user-id">6642008313</div>
-  </div>
-</button>
-</center>
-
-
-
-
-
-
-</div>
-
-<!-- Photo Grid -->
-<center>
-<div class="rowing"> 
-  <div class="columning">
-    <img src="https://i.pinimg.com/736x/30/aa/b6/30aab683ad9587a3af3b7e779cb1f3e3.jpg" style="width:100%">
-    <img src="https://i.pinimg.com/736x/b8/96/9a/b8969ae3855b647e4dcff4e895c5330a.jpg" style="width:100%">
-    <img src="https://i.pinimg.com/736x/ae/17/98/ae1798e83a75a95ea7473554797088f3.jpg" style="width:100%">
- 
-  </div>
-  <div class="columning">
-    <img src="https://i.pinimg.com/736x/ed/d0/93/edd093fdaf9c48f93cac42a7b81b64c7.jpg" style="width:100%">
-    <img src="https://i.pinimg.com/736x/ee/c6/d9/eec6d91aebae5ffee0b7d51bf105a924.jpg" style="width:100%">
-    <img src="https://i.pinimg.com/736x/8c/df/73/8cdf738210b2f9b83adcfbd73cdb3d03.jpg" style="width:100%">
- </center>
-  </div>  
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div id="Brownie" class="tabcontent">
  
 
@@ -1644,6 +1471,202 @@ body {
 
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="Crema" class="tabcontent">
+
+<div class="container mt-3">
+
+<!-- Header -->
+<div class="headering">
+  <h1>Fresas Con Crema</h1>
+  <hr>
+  <h3>Precio de $65.00 pesos</h3>
+  <br>
+  <h3>Complementos</h3>
+  <h4>Crema Batida $5.00 pesos</h4>
+  <br>
+  <center>
+ 
+<button class="carrun" data-bs-toggle="modal" data-bs-target="#myModal">
+  <svg class="cartier" fill="white" viewBox="0 0 576 512" height="1em" xmlns="http://www.w3.org/2000/svg"><path d="M0 24C0 10.7 10.7 0 24 0H69.5c22 0 41.5 12.8 50.6 32h411c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3H170.7l5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5H488c13.3 0 24 10.7 24 24s-10.7 24-24 24H199.7c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5H24C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z"></path></svg>
+  Comprar
+  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 640 512" class="productin"><path d="M211.8 0c7.8 0 14.3 5.7 16.7 13.2C240.8 51.9 277.1 80 320 80s79.2-28.1 91.5-66.8C413.9 5.7 420.4 0 428.2 0h12.6c22.5 0 44.2 7.9 61.5 22.3L628.5 127.4c6.6 5.5 10.7 13.5 11.4 22.1s-2.1 17.1-7.8 23.6l-56 64c-11.4 13.1-31.2 14.6-44.6 3.5L480 197.7V448c0 35.3-28.7 64-64 64H224c-35.3 0-64-28.7-64-64V197.7l-51.5 42.9c-13.3 11.1-33.1 9.6-44.6-3.5l-56-64c-5.7-6.5-8.5-15-7.8-23.6s4.8-16.6 11.4-22.1L137.7 22.3C155 7.9 176.7 0 199.2 0h12.6z"></path></svg>
+</button></center>
+  
+
+
+
+
+
+
+<FONT COLOR="black">
+
+<div class="modal" id="myModal">
+  <div class="modal-dialog modal-dialog-scrollable">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+  <div class="modal-header">
+        <h4 class="modal-title">Metodo de Pago</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+
+      <!-- Modal body -->
+   <div class="modal-body">
+        <h3>Transferencia</h3>
+        <p>Podras Transferir o Pagar en efectivo con nosotros.</p>
+
+   <p>Tarjeta "NU"</p>
+        <p>Numero de Tarjeta:</p>
+        <p>12121212121</p>
+        <p>Clave Intervancaria:</p>
+        <p>122122131313</p>
+        
+   <p>Recuerda Mandar Comprobante de Pago o Captura de la Transferecia a este numero "6642008313"</p>
+ 
+  </div>
+
+      <!-- Modal footer -->
+  <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+  </div>
+  </div>
+</div>
+
+</FONT>
+
+
+ 
+
+
+
+
+
+
+
+  <br>
+  <h4>Contactanos</h4>
+
+
+
+
+
+<center>
+<!-- From Uiverse.io by ZstarPanda0210 --> 
+<button id="btn-message" class="button-message">
+  <div class="content-avatar">
+    <div class="status-user"></div>
+    <div class="avatar">
+      <svg
+        class="user-img"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12,12.5c-3.04,0-5.5,1.73-5.5,3.5s2.46,3.5,5.5,3.5,5.5-1.73,5.5-3.5-2.46-3.5-5.5-3.5Zm0-.5c1.66,0,3-1.34,3-3s-1.34-3-3-3-3,1.34-3,3,1.34,3,3,3Z"
+        ></path>
+      </svg>
+    </div>
+  </div>
+  <div class="notice-content">
+    <div class="username">Whatsapp</div>
+    <div class="lable-message">
+      IG: Casango_<span class="number-message">3</span>
+    </div>
+    <div class="user-id">6642008313</div>
+  </div>
+</button>
+</center>
+
+
+
+
+
+
+</div>
+
+<!-- Photo Grid -->
+<center>
+<div class="rowing"> 
+  <div class="columning">
+    <img src="https://i.pinimg.com/736x/30/aa/b6/30aab683ad9587a3af3b7e779cb1f3e3.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/736x/b8/96/9a/b8969ae3855b647e4dcff4e895c5330a.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/736x/ae/17/98/ae1798e83a75a95ea7473554797088f3.jpg" style="width:100%">
+ 
+  </div>
+  <div class="columning">
+    <img src="https://i.pinimg.com/736x/ed/d0/93/edd093fdaf9c48f93cac42a7b81b64c7.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/736x/ee/c6/d9/eec6d91aebae5ffee0b7d51bf105a924.jpg" style="width:100%">
+    <img src="https://i.pinimg.com/736x/8c/df/73/8cdf738210b2f9b83adcfbd73cdb3d03.jpg" style="width:100%">
+ </center>
+  </div>  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
