@@ -838,8 +838,8 @@ body {
 .button-Principal {
   display: flex;
   background-color: black;
-  width: 150px;
-  height: 50px;
+  width: 180px;
+  height: 100px;
   align-items: center;
   justify-content: space-around;
   border-radius: 10px;
@@ -1146,17 +1146,6 @@ body {
    
   </ul>  
 </div>
-
-<script>
-$(document).ready(function(){
-  $("#myInput").on("keyup", function() {
-    var value = $(this).val().toLowerCase();
-    $("#myList li").filter(function() {
-      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
-    });
-  });
-});
-</script>
 
 
 
@@ -1755,6 +1744,27 @@ function openPage(pageName,elmnt,color) {
 
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
+
+
+
+
+
+
+
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#myList li").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+
+
+
+
+
+
 </script>
    
 </body>
